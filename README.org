@@ -1,0 +1,7 @@
+#+TITLE: perltidy.el
+
+* Perl::Tidy for Emacs - Zakame's version
+
+This is a version of [[https://www.emacswiki.org/emacs/download/perltidy.el][perltidy.el]] that I modified so that it can find the
+closest =.perltidyrc= to use, even on non-remote buffers.  Originally this
+change was on [[https://github.com/zakame/emacs-pde/commit/f5fc74][my Emacs-PDE]].
